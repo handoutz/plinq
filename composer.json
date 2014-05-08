@@ -1,0 +1,12 @@
+{
+    "name": "flucomp/PLinq",
+    "description": "PHP LINQ, just because.",
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Vince Matonis",
+            "email": "vmatonis@flucomp.com"
+        }
+    ]
+}
